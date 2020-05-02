@@ -1,6 +1,6 @@
-## santet-online 08-03-2018 (12:12)
-# -*- coding: utf-8 -*-
-# BlackHole Security
+## santet-online 
+# -
+# B
 ##
 import telethon
 import os, sys, time, socket, random, requests
